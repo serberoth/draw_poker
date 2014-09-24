@@ -1,0 +1,8 @@
+Draw Poker
+Written By: Serberoth
+------------------------------------------------------------
+This is a console draw poker simulator.  It can evaluate
+hands and determine winning combinations, etc.
+
+Just load the file with 'ruby poker.rb' and enjoy.
+
